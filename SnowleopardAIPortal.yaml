@@ -1,0 +1,13 @@
+names:
+- Snow Leopard
+- Fox
+- Yak
+- Hare
+- Weasel
+- Goat
+- Pika
+- Bird
+- Human
+nc: 9
+train: wandb-artifact://SnowleopardAI\train
+val: wandb-artifact://SnowleopardAI\val
